@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>my page2</title>
+</head>
+<body>
+<a href="myfirstpage.html">myfirstpage</a>
+
+
+<h7>hello</h7>
+<p>amit</p> kumar<i>sahni</i>kumar
+</body>
+</html>
